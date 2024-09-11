@@ -240,7 +240,12 @@
     box-shadow: 0 0 45px rgba(0, 0, 0, .08);
     transition: .5s;
 }
-
+.services-item-content {
+ height: 280px !important;
+}
+.services-item-content > h5 {
+    height: 50px;
+}
 .service-item:hover {
     background: var(--primary);
 }
