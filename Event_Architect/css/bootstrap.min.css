@@ -232,12 +232,12 @@ sup {
 }
 
 a {
-    color: #86B817;
+    color: red;
     text-decoration: none
 }
 
 a:hover {
-    color: #6b9312
+    color: #fff;
 }
 
 a:not([href]):not([class]),
@@ -8340,7 +8340,7 @@ fieldset:disabled .btn {
 }
 
 .bg-primary {
-    background-color: #86B817 !important
+    background-color: red !important
 }
 
 .bg-secondary {
